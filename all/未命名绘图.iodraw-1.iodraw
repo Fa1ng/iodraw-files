@@ -124,7 +124,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-39" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lYIt5Mjzc6V8LPdNMfnE-38">
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-39" value="修改的图书信息1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lYIt5Mjzc6V8LPdNMfnE-38">
           <mxGeometry x="-0.102" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
