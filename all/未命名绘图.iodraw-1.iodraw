@@ -182,7 +182,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="870" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="780" />
+              <mxPoint x="440" y="668" />
+              <mxPoint x="440" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -201,7 +202,7 @@
           <mxGeometry x="700" y="690" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-55" value="索引信息1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="760" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="750" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
