@@ -7,6 +7,9 @@
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-1" target="lYIt5Mjzc6V8LPdNMfnE-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-1" target="lYIt5Mjzc6V8LPdNMfnE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;图书类别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
         </mxCell>
@@ -18,6 +21,9 @@
         </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;查询图书类别&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
