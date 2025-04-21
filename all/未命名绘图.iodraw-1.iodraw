@@ -13,9 +13,6 @@
         <mxCell id="uOjc1sEKF0uE7FdX6E0l-12" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="100" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uOjc1sEKF0uE7FdX6E0l-13" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="370" width="75" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="uOjc1sEKF0uE7FdX6E0l-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="uOjc1sEKF0uE7FdX6E0l-15" target="uOjc1sEKF0uE7FdX6E0l-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -38,6 +35,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uOjc1sEKF0uE7FdX6E0l-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.867;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="uOjc1sEKF0uE7FdX6E0l-18" target="uOjc1sEKF0uE7FdX6E0l-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOjc1sEKF0uE7FdX6E0l-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uOjc1sEKF0uE7FdX6E0l-29" target="uOjc1sEKF0uE7FdX6E0l-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uOjc1sEKF0uE7FdX6E0l-29" value="借阅" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
