@@ -41,7 +41,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-2" target="lYIt5Mjzc6V8LPdNMfnE-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;图书信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
@@ -80,7 +84,7 @@
           <mxGeometry x="390" y="360" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
