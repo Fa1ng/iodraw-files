@@ -5,7 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-1" target="lYIt5Mjzc6V8LPdNMfnE-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="280" />
+              <mxPoint x="360" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-17" value="修改的图书信息1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lYIt5Mjzc6V8LPdNMfnE-4">
           <mxGeometry x="-0.0947" y="-3" relative="1" as="geometry">
@@ -15,7 +20,7 @@
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-1" target="lYIt5Mjzc6V8LPdNMfnE-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="90" />
+              <mxPoint x="140" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -43,9 +48,40 @@
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-2" target="lYIt5Mjzc6V8LPdNMfnE-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="530" />
-              <mxPoint x="455" y="530" />
+              <mxPoint x="150" y="490" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-27" value="图书信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lYIt5Mjzc6V8LPdNMfnE-24">
+          <mxGeometry x="0.2258" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-2" target="lYIt5Mjzc6V8LPdNMfnE-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-35" value="需编目的信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lYIt5Mjzc6V8LPdNMfnE-30">
+          <mxGeometry x="0.375" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-2" target="lYIt5Mjzc6V8LPdNMfnE-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="831" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="650" />
+              <mxPoint x="111" y="650" />
+              <mxPoint x="111" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-36" value="新增加的图书信息2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lYIt5Mjzc6V8LPdNMfnE-34">
+          <mxGeometry x="0.4524" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;图书信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -59,11 +95,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;修改图书类别&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="250" width="120" height="50" as="geometry" />
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;修改图书类别&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-6" value="查询图书类别" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="70" width="120" height="40" as="geometry" />
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查询图书类别&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.667;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-6" target="lYIt5Mjzc6V8LPdNMfnE-1">
           <mxGeometry relative="1" as="geometry" />
@@ -81,11 +117,31 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-18" value="维护图书信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-18" target="lYIt5Mjzc6V8LPdNMfnE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;维护图书信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="360" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查询图书信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="460" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.7;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-23" target="lYIt5Mjzc6V8LPdNMfnE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-28" value="查询请求2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lYIt5Mjzc6V8LPdNMfnE-26">
+          <mxGeometry x="-0.2001" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理图书编目&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="540" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理图书征订&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="630" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-37" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="355" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
