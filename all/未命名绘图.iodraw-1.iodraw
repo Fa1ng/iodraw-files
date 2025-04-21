@@ -181,6 +181,9 @@
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-31" target="lYIt5Mjzc6V8LPdNMfnE-55">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="840" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理图书征订&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -193,7 +196,7 @@
           <mxGeometry x="700" y="690" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
