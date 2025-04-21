@@ -105,6 +105,9 @@
         <mxCell id="uOjc1sEKF0uE7FdX6E0l-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="uOjc1sEKF0uE7FdX6E0l-32" target="uOjc1sEKF0uE7FdX6E0l-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uOjc1sEKF0uE7FdX6E0l-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="uOjc1sEKF0uE7FdX6E0l-32" target="uOjc1sEKF0uE7FdX6E0l-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uOjc1sEKF0uE7FdX6E0l-32" value="管理图书" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="80" height="80" as="geometry" />
         </mxCell>
