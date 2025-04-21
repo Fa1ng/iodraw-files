@@ -178,6 +178,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理图书征订&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="630" width="130" height="50" as="geometry" />
         </mxCell>
