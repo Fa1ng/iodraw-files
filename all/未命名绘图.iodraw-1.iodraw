@@ -128,6 +128,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="uOjc1sEKF0uE7FdX6E0l-62" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uOjc1sEKF0uE7FdX6E0l-59">
+          <mxGeometry x="0.025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uOjc1sEKF0uE7FdX6E0l-32" value="管理图书" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="80" height="80" as="geometry" />
         </mxCell>
