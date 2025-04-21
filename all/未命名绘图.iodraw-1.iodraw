@@ -16,7 +16,7 @@
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;修改图书类别&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;修改图书类别&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;查询图书类别&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
