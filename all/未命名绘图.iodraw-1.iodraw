@@ -154,7 +154,7 @@
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-29" target="lYIt5Mjzc6V8LPdNMfnE-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lYIt5Mjzc6V8LPdNMfnE-45">
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-46" value="索引信息1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lYIt5Mjzc6V8LPdNMfnE-45">
           <mxGeometry x="-0.2595" y="-2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
