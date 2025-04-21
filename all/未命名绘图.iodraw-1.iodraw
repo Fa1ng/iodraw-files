@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lYIt5Mjzc6V8LPdNMfnE-18" value="维护图书信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="360" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
