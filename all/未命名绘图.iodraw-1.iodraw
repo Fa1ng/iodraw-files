@@ -40,7 +40,12 @@
         <mxCell id="uOjc1sEKF0uE7FdX6E0l-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="uOjc1sEKF0uE7FdX6E0l-29" target="uOjc1sEKF0uE7FdX6E0l-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uOjc1sEKF0uE7FdX6E0l-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uOjc1sEKF0uE7FdX6E0l-29" target="uOjc1sEKF0uE7FdX6E0l-39">
+        <mxCell id="uOjc1sEKF0uE7FdX6E0l-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uOjc1sEKF0uE7FdX6E0l-35">
+          <mxGeometry x="-0.1647" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOjc1sEKF0uE7FdX6E0l-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="uOjc1sEKF0uE7FdX6E0l-29" target="uOjc1sEKF0uE7FdX6E0l-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uOjc1sEKF0uE7FdX6E0l-29" value="借阅" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
