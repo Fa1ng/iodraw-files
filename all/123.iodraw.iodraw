@@ -12,7 +12,7 @@
         <mxCell id="fT7gp720XrZh-1iiMoDr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="fT7gp720XrZh-1iiMoDr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fT7gp720XrZh-1iiMoDr-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fT7gp720XrZh-1iiMoDr-4">
+        <mxCell id="fT7gp720XrZh-1iiMoDr-5" value="T" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fT7gp720XrZh-1iiMoDr-4">
           <mxGeometry y="8" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
