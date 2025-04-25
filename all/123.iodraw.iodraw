@@ -19,7 +19,7 @@
         </mxCell>
         <mxCell id="fT7gp720XrZh-1iiMoDr-8" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fT7gp720XrZh-1iiMoDr-4">
           <mxGeometry x="0.08" y="7" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="-33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="（x&amp;gt;3)&amp;amp;&amp;amp;(z&amp;lt;10)？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
