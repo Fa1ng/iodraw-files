@@ -1,0 +1,210 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="Z5dkzclTMQMSv3uQeG2k">
+    <mxGraphModel dx="983" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-1" target="lYIt5Mjzc6V8LPdNMfnE-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="280" />
+              <mxPoint x="360" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-17" value="修改的图书信息1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.0947" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-1" target="lYIt5Mjzc6V8LPdNMfnE-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-9" value="图书类别信息1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-7" vertex="1" connectable="0">
+          <mxGeometry x="0.3902" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;图书类别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-2" target="lYIt5Mjzc6V8LPdNMfnE-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="380" />
+              <mxPoint x="220" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-20" value="修改的图书信息1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.1263" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-2" target="lYIt5Mjzc6V8LPdNMfnE-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-27" value="图书信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-24" vertex="1" connectable="0">
+          <mxGeometry x="0.2258" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-2" target="lYIt5Mjzc6V8LPdNMfnE-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-35" value="需编目的信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-30" vertex="1" connectable="0">
+          <mxGeometry x="0.375" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-2" target="lYIt5Mjzc6V8LPdNMfnE-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="831" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="650" />
+              <mxPoint x="111" y="650" />
+              <mxPoint x="111" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-36" value="新增加的图书信息2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-34" vertex="1" connectable="0">
+          <mxGeometry x="0.4524" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;图书信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-3" target="lYIt5Mjzc6V8LPdNMfnE-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-16" value="新增图书类别及修改信息2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-15" vertex="1" connectable="0">
+          <mxGeometry x="0.0842" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;修改图书类别&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查询图书类别&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.667;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-6" target="lYIt5Mjzc6V8LPdNMfnE-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-12" value="查询请求1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.3777" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-18" target="lYIt5Mjzc6V8LPdNMfnE-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-22" value="需修改的图书信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.0105" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-18" target="lYIt5Mjzc6V8LPdNMfnE-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-39" value="修改的图书信息1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.102" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;维护图书信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="360" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-23" target="lYIt5Mjzc6V8LPdNMfnE-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-44" value="查询请求1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-43" vertex="1" connectable="0">
+          <mxGeometry x="0.0776" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查询图书信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="460" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.7;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-23" target="lYIt5Mjzc6V8LPdNMfnE-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-28" value="查询请求2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.2001" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-29" target="lYIt5Mjzc6V8LPdNMfnE-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-46" value="索引信息1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.2595" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-29" target="lYIt5Mjzc6V8LPdNMfnE-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-50" value="新增加的图书信息1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-49" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理图书编目&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="540" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-31" target="lYIt5Mjzc6V8LPdNMfnE-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-52" value="索引信息2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-51" vertex="1" connectable="0">
+          <mxGeometry x="-0.4713" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="lYIt5Mjzc6V8LPdNMfnE-31" target="lYIt5Mjzc6V8LPdNMfnE-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="668" />
+              <mxPoint x="440" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-56" value="索引信息1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lYIt5Mjzc6V8LPdNMfnE-54" vertex="1" connectable="0">
+          <mxGeometry x="0.3846" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理图书征订&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="630" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;图书管理员&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-48" value="索引信息2" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lYIt5Mjzc6V8LPdNMfnE-55" value="索引信息1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
