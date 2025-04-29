@@ -67,7 +67,7 @@
           <mxGeometry x="500" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jgAb2uXrG6AcleSBsYpX-7" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="343" y="210" as="geometry">
+          <mxGeometry x="430" y="270" as="geometry">
             <mxPoint x="95" as="offset" />
           </mxGeometry>
         </mxCell>
